@@ -10,11 +10,16 @@ lab2 (member server) — Windows Server 2022, 10.10.10.20
 
 Что сделано:
 
+<img width="1026" height="772" alt="lab1" src="https://github.com/user-attachments/assets/2f929bdc-3330-4b8f-9ce4-2fa6131973a1" />
+
 Домен lab1.internal
 
 Установлена роль AD DS, создан лес lab1.internal
+<img width="1030" height="770" alt="image" src="https://github.com/user-attachments/assets/4257d70f-16e4-41e7-9133-bf1f9202b1be" />
 
 lab2 введен в домен
+<img width="1015" height="765" alt="image" src="https://github.com/user-attachments/assets/d9d14a1d-0e14-47e9-82ad-eb30aba1370e" />
+
 
 Следующий этап:
 Установка служб домен Active Directory (AD DS) и повышение уровня контроллера домена. Далее: передача FSMO ролей, создание сайта и подсети.
