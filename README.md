@@ -35,7 +35,10 @@ lab2 введен в домен
 
 
 Выполнен перенос роли RID Master с lab1 на lab2
+![image2.png](https://github.com/skipper19-best/AD-Lab-2026/blob/main/image2.png)
 
 Создан новый сайт sydnes и подсеть 172.16.1.0/24
+![image3.png](https://github.com/skipper19-best/AD-Lab-2026/blob/main/image3.png)
+
 
 
