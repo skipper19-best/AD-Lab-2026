@@ -31,6 +31,7 @@ lab2 введен в домен
 Что сделано за сегодня:
 
 Второй сервер (lab2) повышен до контроллера домена
+https://github.com/skipper19-best/AD-Lab-2026/blob/main/image.png
 
 
 Выполнен перенос роли RID Master с lab1 на lab2
